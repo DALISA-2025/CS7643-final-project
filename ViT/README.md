@@ -1,0 +1,1 @@
+add `cifar-10-python.tar.gz` to `ViT/data/cifar10`
