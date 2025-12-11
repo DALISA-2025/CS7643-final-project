@@ -1,0 +1,28 @@
+{
+  "total_experiments": 4,
+  "best_model": "sgd_lr0.1_wd1e-4_20ep_mul",
+  "best_accuracy": 87.5,
+  "all_results": [
+    {
+      "name": "sgd_lr0.1_wd1e-4_20ep_mul",
+      "best_acc": 87.5,
+      "final_acc": 87.5
+    },
+    {
+      "name": "adam_lr0.001_wd1e-4_10ep_cos",
+      "best_acc": 84.09,
+      "final_acc": 84.09
+    },
+    {
+      "name": "sgd_lr0.1_wd5e-4_10ep_mul",
+      "best_acc": 83.42,
+      "final_acc": 83.32
+    },
+    {
+      "name": "sgd_lr0.01_wd5e-4_10ep_mul",
+      "best_acc": 82.66,
+      "final_acc": 82.6
+    }
+  ],
+  "organized_at": "2025-12-04T11:22:55.960058"
+}
